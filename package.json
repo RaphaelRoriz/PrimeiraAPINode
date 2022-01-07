@@ -1,0 +1,26 @@
+{
+  "name": "apinode",
+  "version": "1.0.0",
+  "description": "primeira API",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RaphaelRoriz/PrimeiraAPINode.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RaphaelRoriz/PrimeiraAPINode/issues"
+  },
+  "homepage": "https://github.com/RaphaelRoriz/PrimeiraAPINode#readme",
+  "dependencies": {
+    "body-parser": "^1.19.1",
+    "cors": "^2.8.5",
+    "express": "^4.17.2",
+    "morgan": "^1.10.0",
+    "nodemon": "^2.0.15"
+  }
+}
